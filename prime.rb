@@ -3,8 +3,7 @@ def prime?(num)
   range = (1..105557).to_a
   range.select do |numbers|
     numbers.prime?
-    if false
-  end
+    end
  return true
 end
 
