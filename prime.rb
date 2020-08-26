@@ -1,11 +1,11 @@
-require 'prime'
-def prime?(num)
-  range = (1..105557).to_a
-  range.select do |numbers|
-    numbers.prime?
-    end
- return true
-end
+#require 'prime'
+#def prime?(num)
+  #range = (1..105557).to_a
+  #range.select do |numbers|
+    #numbers.prime?
+    #end
+ #return true
+#end
 
 
 def prime?(number)
